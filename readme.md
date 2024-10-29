@@ -2,3 +2,5 @@
 
 ## Litt om prosjektet
 Forhåpentligvis vil det fungere en gang
+
+## Flask som webserver
